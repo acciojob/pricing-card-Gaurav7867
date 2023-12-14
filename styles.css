@@ -6,8 +6,9 @@
 	color:white;
 }
 #main{
+	background-color:ghostwhite;
 	padding:10px;
-	width:80;
+	width:60%;
 	border:5px;
 	text-align:center;
 }
